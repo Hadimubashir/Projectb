@@ -11,4 +11,4 @@ Tools: S3, IAM, Versioning, Lifecycle Policies, Server-Side Encryption, Amazon C
 3.  Utilized S3 Transfer Acceleration to enhance upload and download speeds for users in different geographic locations, improving user experience. Amazon CloudFront as a content delivery network (CDN) to cache S3 
     content, further enhancing the performance and scalability of the application.
 
-4. Automated backups and data replication to different regions for disaster recovery and increased availability.
+4.  Automated backups and data replication to different regions for disaster recovery and increased availability.
